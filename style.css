@@ -16,6 +16,14 @@ h2 {
   margin-bottom: 1rem;
 }
 
+h2 ~ h2 {
+  margin-top: 3rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
 /* ------------------------- NAV ----------------------------- */
 
 .nav-container {
